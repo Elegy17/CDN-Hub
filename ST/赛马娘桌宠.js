@@ -531,7 +531,7 @@
         {
           name: '晨昏线',
           url: 'https://files.catbox.moe/od9j6n.mp3'
-        }
+        },
       ];
       const sharedImages = [
         'https://files.catbox.moe/7gjs8m.webp',
