@@ -1,3 +1,3 @@
-var 脚本 = document.createElement('脚本');
-script.src = `https://cdn.jsdelivr.net/gh/Elegy17/CDN-Hub@main/IIROSE/image.js?_=${Date.now()}`;
-document.head.appendChild（脚本）；
+var script = document.createElement('script');
+script.src = `https://xc.null.red:8043/XCimg/img/file/xcwqw1/js/image_url.js?_=${Date.now()}`; 
+document.head.appendChild(script);
